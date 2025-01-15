@@ -1,5 +1,5 @@
-# reverse_shell_splunk
-A simple splunk package for obtaining reverse shells on both Windows and most *nix systems. 
+# bind_shell_splunk
+A simple splunk package for obtaining bind shells on both Windows and most *nix systems. 
 
 # requirements 
 * splunk administrative access
